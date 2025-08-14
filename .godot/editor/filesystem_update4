@@ -1,0 +1,8 @@
+res://main.tscn
+res://ui/main_menu/main_menu.tscn
+res://ui/main_menu/main_menu.gd
+res://main.gd
+res://entities/player/player.tscn
+res://component/player_input_synchronizer_component.tscn
+res://component/player_input_synchronizer_component.gd
+res://entities/player/player.gd
